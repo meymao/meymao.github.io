@@ -1,0 +1,29 @@
+.header {
+	font-size: 36px;
+	text-align: center;
+	margin: 50px 0px 50px;
+}
+.footer {
+	font-size: 16px;
+	text-align: center;
+	margin: 50px 0;
+}
+.content {
+	font-size: 24px;
+	text-align: center;
+	padding: 40px 40px;
+	background-color: #eeeeee;
+}
+.links {
+	list-style: none;
+}
+.links a {
+	text-decoration: none;
+	color: #333333;
+}
+.links a:hover {
+	font-size: 105%;
+}
+.links li {
+	margin: 40px 0px;
+}
